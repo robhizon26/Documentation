@@ -17,6 +17,15 @@ K-factor ranges from 0 to 1 for the earth curvature. 0 means flat earth and 1 me
 ![Alt Text](gifs/LWR_LOS.gif)
 
 
+# Inclination angle
+You can get the highest or the lowest inclination angle of a given path. This is useful in a couple of scenarios like if you are planning a mountain hike, skiing, or off roading that you want to know the steepest path you or your vehicle needs to negotiate along the way. 
+
+> The value here is computed on approximate estimate based on elevation points along the path. Please note this will not take into consideration any man-made structure as an elevation point such as bridges, elevated footpath or buildings.
+
+
+![Alt Text](gifs/LWR_IncAng.gif)
+
+
 # Star topology
 This will allow you to create a star topology and move around its center or any of its end node markers to determine the optimal or minimum total distance for your project. This will also determine bearing/azimuth to and fro center point to any of its end points.
 ![Alt Text](gifs/LWR_Star2.gif)
@@ -25,3 +34,8 @@ This will allow you to create a star topology and move around its center or any 
 This will simply draw circle as an overlay on the map. You can determine its radius, circumference, and you can drag it around.
 
 ![Alt Text](gifs/LWR_Radius.gif)
+
+# Enclosed area
+This will give you the area and perimeter distance.
+
+![Alt Text](gifs/LWR_Area.gif)
