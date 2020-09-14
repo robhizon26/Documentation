@@ -39,3 +39,13 @@ This will simply draw circle as an overlay on the map. You can determine its rad
 This will give you the area and perimeter distance.
 
 ![Alt Text](gifs/LWR_Area.gif)
+
+# Ocean deep
+This is an approximate layout path for a submarine cable in Malaysian Peninsula. You can survey the depth of the path underneath the ocean even before implementing any project from it.
+
+![Alt Text](gifs/LWR_OceanDeep.gif)
+
+# Multiple objects
+This just shows the possibility to place multiple objects on the map canvas and hover on it to see any path or any marker/node details.
+
+![Alt Text](gifs/LWR_MultiObjects.gif)
