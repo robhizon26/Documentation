@@ -45,7 +45,7 @@ This is an approximate layout path for a submarine cable in Malaysian Peninsula.
 
 ![Alt Text](gifs/LWR_OceanDeep.gif)
 
-# Multiple objects
-This just shows the possibility to place multiple objects on the map canvas and hover on it to see any path or any marker/node details.
+# Multiple overlay objects
+This just shows the possibility to place multiple overlay objects on the map canvas and hover on it to see any path or any marker/node details.
 
 ![Alt Text](gifs/LWR_MultiObjects.gif)
